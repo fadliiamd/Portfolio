@@ -1,0 +1,13 @@
+{
+  "name": "fadliiamd.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "particle.js": "^1.0.7",
+    "particles.js": "^2.0.0",
+    "rolly.js": "^0.4.0"
+  }
+}

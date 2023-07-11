@@ -1,0 +1,169 @@
+* {
+  color: white;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  background-color: black;
+}
+
+#particles-js .scrolldown {
+  position: absolute;
+}
+
+.logo {
+  width: 4%;
+}
+
+/* navigasi */
+.navigasi {
+  /* border: 1px solid white; */
+  height: 80px;
+}
+
+.navigasi2 {
+  /* border: 1px solid white; */
+  margin-left: 965px;
+}
+
+.nav-link {
+  color: white;
+  margin-left: 20px;
+}
+
+.nav-link:hover {
+  color: rgb(113, 113, 113);
+}
+/* end of navigasi*/
+
+/* sec1 */
+.sec1 {
+  /* border: 1px solid white; */
+  height: auto;
+  padding-top: 150px;
+}
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 90vh;
+}
+
+.sec1 .fadli {
+  font-size: 20px;
+  /* border: 1px solid white; */
+  margin: 0;
+}
+
+.sec1 h1 {
+  /* border: 1px solid white; */
+  font-size: 55px;
+  font-weight: 700;
+  width: 65%;
+}
+
+span {
+  font-weight: bold;
+}
+
+.spheader {
+  background-color: white;
+  color: black;
+}
+
+.deskripsi-header {
+  /* border: 1px solid white; */
+  padding: 30px 0;
+  width: 40%;
+  font-size: 18px;
+}
+
+.secbutton {
+  /* border: 1px solid white; */
+  padding: 20px 0;
+}
+
+.tombol1 {
+  background-color: white;
+  color: black;
+  width: 10%;
+  padding: 8px 0;
+  border: white;
+  /* border-radius: 3px; */
+}
+
+.tombol2 {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+  padding: 8px 0;
+  width: 10%;
+  margin-left: 15px;
+}
+/* end of sec1 */
+
+/* Content */
+.sec-content {
+  /* border: 1px solid white; */
+  height: 700px;
+  padding: 150px 0;
+}
+
+.h1-header2 {
+  /* border: 1px solid white; */
+  font-size: 30px;
+}
+
+.row {
+  /* border: 1px solid white; */
+  height: 400px;
+}
+
+.kotak {
+  /* border: 1px solid white; */
+  height: 1048px;
+}
+
+.sub-kotak1 {
+  /* border: 1px solid blue; */
+  width: 890px;
+  height: 648px;
+  float: left;
+}
+
+.sub-kotak2 {
+  /* border: 1px solid yellow; */
+  background-color: white;
+  width: 418px;
+  height: 648px;
+  float: left;
+  margin-left: 10px;
+}
+
+.kolase1 {
+  /* border: 1px solid gold; */
+  background-color: white;
+  width: 49.4%;
+  height: 318px;
+  float: left;
+}
+
+.kolase2 {
+  /* border: 1px solid gold; */
+  background-color: white;
+  width: 49.4%;
+  height: 318px;
+  margin-left: 10px;
+  float: left;
+}
+
+.kolase3 {
+  /* border: 1px solid gold; */
+  background-color: white;
+  margin-top: 10px;
+  width: 100%;
+  float: left;
+  height: 318px;
+}
+/* End of content */

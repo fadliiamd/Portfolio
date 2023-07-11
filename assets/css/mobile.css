@@ -1,0 +1,167 @@
+@media screen and (max-width: 428px) {
+    * {
+        color: white;
+        box-sizing: border-box;
+        font-family: 'Inter', sans-serif;
+    }
+    
+    body {
+        background-color: black;
+    }
+    
+    /* navigasi */
+    .navigasi {
+        /* border: 1px solid white; */
+        height: 80px;
+        padding: 0 3vh;
+    }
+
+    .logo {
+        width: 10%;
+    }
+    
+    .navigasi2{
+        /* border: 1px solid white; */
+        margin-left: 965px;
+    }
+    
+    .nav-link {
+        color: white;
+        margin-left: 20px;
+    }
+    /* end of navigasi*/
+    
+    /* sec1 */
+    .sec1 {
+        /* border: 1px solid white; */
+        height: auto;
+        padding: 10vh 3vh 3vh 3vh;
+    }
+    
+    .sec1 .fadli {
+        font-size: 14px;
+        /* border: 1px solid white; */
+        margin: 0;
+    }
+    
+    .sec1 h1 {
+        /* border: 1px solid white; */
+        line-height: 45px;
+        font-size: 30px;
+        font-weight: 700;
+        width: 95%;
+    }
+    
+    span {
+        font-weight: bold;
+    }
+    
+    .spheader {
+        background-color: white;
+        color: black;
+    }
+    
+    .deskripsi-header {
+        /* border: 1px solid white; */
+        padding: 20px 0;
+        width: 99%;
+        font-size: 14px;
+    }
+    
+    .secbutton {
+        /* border: 1px solid white; */
+        padding: 20px 0;
+    }
+    
+    .tombol1 {
+        background-color: white;
+        color: black;
+        width: 48%;
+        padding: 8px 0;
+        border: white;
+        margin-right: 1%;
+        /* border-radius: 3px; */
+    }
+    
+    .tombol2 {
+        background-color: transparent;
+        color: white;
+        border: 1px solid white;
+        padding: 8px 0;
+        width: 48%;
+        margin-left: 1%;
+    }
+    /* end of sec1 */
+    
+    /* Content */
+    .sec-content {
+        /* border: 1px solid white; */
+        height: 700px;
+        padding: 3vh 3vh 3vh 3vh;
+    }
+    
+    .h1-header2 {
+        /* border: 1px solid white; */
+        font-size: 20px;
+    }
+    
+    .deskripsi-header2 {
+        /* border: 1px solid white; */
+        width: 99%;
+        font-size: 14px;
+    }
+
+    .row {
+        /* border: 1px solid white; */
+        height: 400px;
+    }
+    
+    .kotak {
+        padding: 3vh 0;
+        /* border: 1px solid white; */
+        height: 1000;
+
+    }
+    
+    .sub-kotak1 {
+        /* border: 1px solid blue; */
+        width: 100%;
+        height: auto;
+    }
+    
+    .sub-kotak2 {
+        border: 1px solid yellow;
+        background-color: white;
+        width: 100%;
+        height: 318px;
+        /* float: left; */
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+    
+    .kolase1 {
+        /* border: 1px solid gold; */
+        background-color: white;
+        margin-top: 10px;
+        width: 100%;
+        height: 318px;
+    }
+    
+    .kolase2 {
+        /* border: 1px solid gold; */
+        background-color: white;
+        margin-left: 0px;
+        margin-top: 10px;
+        width: 100%;
+        height: 318px;
+    }
+    
+    .kolase3 {
+        /* border: 1px solid gold; */
+        background-color: white;
+        margin-top: 10px;
+        width: 100%;
+        height: 318px;
+    }
+    /* End of content */
+}
