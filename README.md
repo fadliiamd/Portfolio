@@ -4,7 +4,7 @@ Support saya dengan memberikan bintang di repository ini.
 
 ## Description
 
-Ini merupakan web portfolio saya sebagai ui ux design x frontend web developer.
+Ini merupakan web portfolio saya sebagai ui ux designer x frontend web developer.
 
 ### Kontak saya
 
