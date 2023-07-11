@@ -10,8 +10,9 @@ Ini merupakan web portfolio saya sebagai ui ux design x frontend web developer.
 
 Berikut merupakan kontak yg bisa teman-teman hubungi apabila membutuhkan.
 
-- Instagram: @fadliiamd [disini](https://www.instagram.com/fadliiamd_/).
-- Behance: @fadliiamd* [disini](https://www.behance.net/fadliiamd*).
+- Instagram: @fadliiamd\_ [disini](https://www.instagram.com/fadliiamd*/).
+- Twitter: @fadliiamd [disini](https://www.twitter.com/fadliiamd/).
+- Behance: @fadliiamd\_ [disini](https://www.behance.net/fadliiamd*).
 - LinkedIn: @fadliamada [disini](https://www.linkedin.com/in/fadliamada/).
 
 #Keep ghost and grinding man.
